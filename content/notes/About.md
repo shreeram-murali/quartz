@@ -20,4 +20,6 @@ $$
 - **LinkedIn**: [/in/shreeram-murali (linkedin.com)](https://www.linkedin.com/in/shreeram-murali/)
 - **Twitter**: [@eigenshree](https://twitter.com/eigenshree)
 
+### About this site
+
 This website was made using [Quartz](https://github.com/jackyzha0/quartz), written by [Jacky Zhao](https://github.com/jackyzha0) and licensed under the MIT license.
