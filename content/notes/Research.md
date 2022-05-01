@@ -1,5 +1,6 @@
 ---
 title: "Research"
+enableToc: true
 ---
 
 ## Background
@@ -10,4 +11,4 @@ In the following weeks, I joined a [competitive student team](https://www.edhith
 While I became comfortable with building and operating such mobile robots, I wanted to learn how to control them. I joined the Data Augmented Control of Autonomous Systems (DACAS) Lab, led by [Dr. Jishnu Keshavan](https://mecheng.iisc.ac.in/people/jishnu-keshavan/), at the Indian Institute of Science, Bangalore. My work here involves simulation and experimentation of various adaptive control strategies for mobile robot navigation and applications such as formation control and autonomous landing. 
 
 ## Publications
-(manuscript(s) under review -- to be updated)
+(to be updated)
