@@ -20,4 +20,4 @@ $$
 - **LinkedIn**: [/in/shreeram-murali (linkedin.com)](https://www.linkedin.com/in/shreeram-murali/)
 - **Twitter**: [@eigenshree](https://twitter.com/eigenshree)
 
-This website was made using [Quartz](https://github.com/jackyzha0/quartz). 
+This website was made using [Quartz](https://github.com/jackyzha0/quartz).
