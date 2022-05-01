@@ -1,4 +1,4 @@
-baseURL = "https://shreeram-murali.github.io/"
+baseURL = "https://shreeram-murali.github.io/quartz/"
 languageCode = "en-us"
 pygmentsUseClasses = true
 relativeURLs = false
