@@ -1,15 +1,14 @@
-name: Jacky Zhao
+name: Shreeram Murali
 enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Shreeram's personal home page.
 page_title:
-  "🪴 Quartz 3.2"
+  "Shreeram Murali"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/eigenshree
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/shreeram-murali
