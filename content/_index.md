@@ -2,18 +2,15 @@
 title: "Shreeram Murali"
 ---
 
-## Quicklinks
-1. [[notes/About|About]]
-2. [[notes/Research|Research]]
-3. [[notes/Projects|Projects]]
-4. [[notes/Blog|Blog]]
-5. [[notes/CV|CV]]
+[[notes/About|About]] / [[notes/Research|Research]] / [[notes/Projects|Projects]] / [[notes/Blog|Blog]] / [[notes/CV|CV]]
+
+![[images/banner.png]]
 
 ---
 # Home
 
-Hi, my name is Shreeram Murali, and I’m currently a research assistant at the Data Augmented Control of Autonomous Systems (DACAS) Lab, [Indian Institute of Science](https://en.wikipedia.org/wiki/Indian_Institute_of_Science), Bangalore. I completed my B.Eng. in Mechanical Engineering in August 2021. 
+Hi, my name is Shreeram Murali, and I’m currently a research assistant at the Data Augmented Control of Autonomous Systems (DACAS) Lab, [Indian Institute of Science](https://en.wikipedia.org/wiki/Indian_Institute_of_Science), Bangalore. 
 
-I am interested in researching learning-based and adaptive feedback control strategies for mobile robot navigation. More on my research interests [[notes/Research|here]].
+I am interested in researching learning-based control strategies for mobile robot navigation. More on my research interests [[notes/Research|here]].
 
-Outside of academics, I am also a photography and film enthusiast. 
+Outside of academics, I am also a photography and film enthusiast. More about me [[notes/About|here]], where you'll also find my [[notes/About#Contact|contact details]].

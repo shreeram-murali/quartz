@@ -4,14 +4,14 @@ title: "About"
 
 ## Bio
 
-I completed my undergraduate studies in mechanical engineering in 2021. I graduated with a Bachelor of Engineering (B.Eng.) from [Ramaiah Institute of Technology](https://en.wikipedia.org/wiki/Ramaiah_Institute_of_Technology), Bangalore.
+I'm an incoming master's student (M.Sc.) of EECS at [Aalto University](https://en.wikipedia.org/wiki/Aalto_University). I graduated with a Bachelor of Engineering (B.Eng.) in mechanical engineering from [Ramaiah Institute of Technology](https://en.wikipedia.org/wiki/Ramaiah_Institute_of_Technology) in 2021.
 
 I'm currenty a junior research assistant with the Data Augmented Control of Autonomous Systems (DACAS) Lab, Indian Institute of Science, Bangalore. 
 
 To read more about my research interests, please click [[notes/Research|here]], but the long-story-short is that I started off by building mobile robots, then learnt how to operate them, but now I'm interested in the more intrinsic aspects of how to control them. 
 
 ## Contact
-- **Email**: The best way to reach out is via email. Please feel free to email me at:
+- **Email**: This is the best way to reach out. Please feel free to email me at:
 $$
 x \texttt{@gmail.com} \text{, where } x = \texttt{shreeram.m} 
 $$
