@@ -2,9 +2,11 @@
 title: "About"
 ---
 
+![[images/myphoto.png]]
+
 ## Bio
 
-I'm an incoming master's student (M.Sc.) of EECS at [Aalto University](https://en.wikipedia.org/wiki/Aalto_University). I graduated with a Bachelor of Engineering (B.Eng.) in mechanical engineering from [Ramaiah Institute of Technology](https://en.wikipedia.org/wiki/Ramaiah_Institute_of_Technology) in 2021.
+I graduated with a Bachelor of Engineering (B.Eng.) in mechanical engineering from [Ramaiah Institute of Technology](https://en.wikipedia.org/wiki/Ramaiah_Institute_of_Technology) in 2021.
 
 I'm currenty a junior research assistant with the Data Augmented Control of Autonomous Systems (DACAS) Lab, Indian Institute of Science, Bangalore. 
 
@@ -15,7 +17,7 @@ To read more about my research interests, please click [[notes/Research|here]], 
 $$
 x \texttt{@gmail.com} \text{, where } x = \texttt{shreeram.m} 
 $$
-- **CV**: I have a comprehensive CV in reverse-chronological order here (to be filled) and a shorter 1-page resume here (to be filled). 
+- **CV**: Please click [[notes/CV|CV]] and follow the links on that page. 
 - **GitHub**: [shreeram-murali (github.com)](https://github.com/shreeram-murali)
 - **LinkedIn**: [/in/shreeram-murali (linkedin.com)](https://www.linkedin.com/in/shreeram-murali/)
 - **Twitter**: [@eigenshree](https://twitter.com/eigenshree)

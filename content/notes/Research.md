@@ -1,6 +1,5 @@
 ---
 title: "Research"
-enableToc: true
 ---
 
 ## Background
